@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modified Nissan 4X4
+* source:	https://sketchfab.com/3d-models/modified-nissan-4x4-428fd640471d4c9b996cda621b575855
+* author:	TechFusion (https://sketchfab.com/techfusion)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modified Nissan 4X4" (https://sketchfab.com/3d-models/modified-nissan-4x4-428fd640471d4c9b996cda621b575855) by TechFusion (https://sketchfab.com/techfusion) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
